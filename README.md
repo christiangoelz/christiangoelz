@@ -20,6 +20,8 @@ I build machine learning systems that turn physiological signals and medical ima
 | [pi-mpc-demo](https://github.com/christiangoelz/pi-mpc-demo) | MPC implementation on Raspberry Pi hardware |
 | [claude-code-docker](https://github.com/christiangoelz/claude-code-docker) | Secure Docker environment for Claude Code |
 | [ICTALS2025](https://github.com/christiangoelz/ICTALS2025) | Workshop materials: wearable-based seizure detection |
+| [pydmdeeg](https://github.com/christiangoelz/pydmdeeg) | Dynamic Mode Decomposition for EEG analysis — used in 4 publications |
+
 
 ## Tech Stack
 

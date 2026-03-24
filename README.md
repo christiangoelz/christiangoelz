@@ -6,11 +6,10 @@ Medical AI · Privacy-Preserving Computing · Neuroscience
 I build machine learning systems that turn physiological signals and medical images into clinical intelligence.
 
 ## Research Focus
-
-- **Medical Computer Vision** — ECG foundation models, angiography analysis
-- **Biosignal Analysis & Wearable AI** — Seizure detection/prediction from multimodal wearables
-- **Privacy-Preserving Federated Computing** — Secure Multiparty Computation, cross-border clinical analytics
-- **Applied LLM & Generative AI** — RAG pipelines for biomedical literature
+- **Biosignal Analysis & Wearable AI**: ECG foundation models, Seizure detection/prediction from multimodal wearables
+- **Medical Computer Vision**: Angiography video analysis, Digitalization of the Cath-lab
+- **Privacy-Preserving Federated Computing**: Secure Multiparty Computation, cross-border clinical analytics
+- **Applied LLM & Generative AI**: RAG pipelines for biomedical literature
 
 ## Selected Projects
 

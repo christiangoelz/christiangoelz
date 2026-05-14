@@ -1,6 +1,6 @@
 # Hi, I'm Christian
 
-**Postdoctoral Researcher** at LMU University Hospital Munich
+**Postdoctoral Researcher** at LMU University Hospital Munich\
 Medical AI · Privacy-Preserving Computing · Neuroscience · Sports Science
 
 I build machine learning systems that turn physiological signals and medical images into clinical intelligence.

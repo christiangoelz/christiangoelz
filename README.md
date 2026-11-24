@@ -32,8 +32,10 @@ I build ML systems for physiological signals and medical imaging.
 ### Biosignals
 | Project | Description |
 |---------|-------------|
+| **[ecg-fm-athletes](https://github.com/AIBAT-LMU/ecg-fm-athletes)** | Fine-tuning & evaluation of ECG foundation models (ECG-FM, HuBERT-ECG, ECGFounder) for cardiovascular screening in athletes — reproduces all results of the *npj Digital Medicine* 2026 paper; checkpoints on [Hugging Face](https://huggingface.co/AIBAT-LMU) |
+| **[seizure-temperature](https://github.com/AIBAT-LMU/seizure-temperature)** | Associations between ambient temperature and seizure occurrence — GEE models on seizure diaries and postal-code-level weather data (with Helmholtz Munich, UKF, Boston Children's Hospital) |
+| **[ICTALS2025](https://github.com/AIBAT-LMU/ICTALS2025)** | Seizure management study combining wearable data with other records — presented at ICTALS 2025 |
 | **[pydmdeeg](https://github.com/christiangoelz/pydmdeeg)** | Dynamic Mode Decomposition for EEG analysis — used in 4 publications |
-| **[ICTALS2025](https://github.com/christiangoelz/ICTALS2025)** | Workshop materials: wearable-based seizure detection |
 
 ### Privacy-Preserving Computing
 | Project | Description |
